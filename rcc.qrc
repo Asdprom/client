@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file>qml/form.ui</file>
+<file>qml/login.ui</file>
+</qresource>
+</RCC>
